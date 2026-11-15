@@ -1,1 +1,1 @@
-# Änderung aus Git_Lcoal_Repo
+# Gemeinsame Änderung aus Git_Remote_Repo und Git_Local_Repo
